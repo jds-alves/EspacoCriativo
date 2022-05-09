@@ -1,0 +1,1113 @@
+{
+  "accessors": [
+    {
+      "name": "Mesh1 Model_1_0_positions",
+      "componentType": 5126,
+      "count": 94,
+      "min": [
+        0,
+        0,
+        -0.5
+      ],
+      "max": [
+        0.5,
+        0.25,
+        5.075940062191838e-18
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "name": "Mesh1 Model_1_0_normals",
+      "componentType": 5126,
+      "count": 94,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "name": "Mesh1 Model_1_0_texcoords",
+      "componentType": 5126,
+      "count": 94,
+      "min": [
+        -19.684999465942383,
+        -18.684999465942383
+      ],
+      "max": [
+        19.684999465942383,
+        1
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 0
+    },
+    {
+      "name": "Mesh1 Model_1_0_indices",
+      "componentType": 5123,
+      "count": 126,
+      "min": [
+        0
+      ],
+      "max": [
+        93
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 0
+    },
+    {
+      "name": "Mesh1 Model_1_1_positions",
+      "componentType": 5126,
+      "count": 144,
+      "min": [
+        0,
+        0,
+        -0.5
+      ],
+      "max": [
+        0.5,
+        0.25,
+        5.075940062191838e-18
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 1128
+    },
+    {
+      "name": "Mesh1 Model_1_1_normals",
+      "componentType": 5126,
+      "count": 144,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 1128
+    },
+    {
+      "name": "Mesh1 Model_1_1_texcoords",
+      "componentType": 5126,
+      "count": 144,
+      "min": [
+        -19.684999465942383,
+        -18.684999465942383
+      ],
+      "max": [
+        19.684999465942383,
+        1
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 752
+    },
+    {
+      "name": "Mesh1 Model_1_1_indices",
+      "componentType": 5123,
+      "count": 174,
+      "min": [
+        0
+      ],
+      "max": [
+        143
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 252
+    },
+    {
+      "name": "Mesh1 Model_1_2_positions",
+      "componentType": 5126,
+      "count": 10,
+      "min": [
+        0,
+        0,
+        -0.5
+      ],
+      "max": [
+        0.5,
+        0.25,
+        -0.5
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 2856
+    },
+    {
+      "name": "Mesh1 Model_1_2_normals",
+      "componentType": 5126,
+      "count": 10,
+      "min": [
+        0,
+        0,
+        -1
+      ],
+      "max": [
+        0,
+        0,
+        -1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 2856
+    },
+    {
+      "name": "Mesh1 Model_1_2_texcoords",
+      "componentType": 5126,
+      "count": 10,
+      "min": [
+        -19.684999465942383,
+        -8.842519760131836
+      ],
+      "max": [
+        0,
+        1
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 1904
+    },
+    {
+      "name": "Mesh1 Model_1_2_indices",
+      "componentType": 5123,
+      "count": 12,
+      "min": [
+        0
+      ],
+      "max": [
+        9
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 600
+    },
+    {
+      "name": "Mesh1 Model_1_3_positions",
+      "componentType": 5126,
+      "count": 6,
+      "min": [
+        0,
+        0,
+        -0.5
+      ],
+      "max": [
+        2.8199699639856597e-18,
+        0.25,
+        0
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 2976
+    },
+    {
+      "name": "Mesh1 Model_1_3_normals",
+      "componentType": 5126,
+      "count": 6,
+      "min": [
+        -1,
+        3.972830195264597e-18,
+        -1.660309997878807e-18
+      ],
+      "max": [
+        -1,
+        3.972830195264597e-18,
+        -1.660309997878807e-18
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 2976
+    },
+    {
+      "name": "Mesh1 Model_1_3_texcoords",
+      "componentType": 5126,
+      "count": 6,
+      "min": [
+        -19.684999465942383,
+        -8.842519760131836
+      ],
+      "max": [
+        0,
+        1
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 1984
+    },
+    {
+      "name": "Mesh1 Model_1_3_indices",
+      "componentType": 5123,
+      "count": 12,
+      "min": [
+        0
+      ],
+      "max": [
+        5
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 624
+    },
+    {
+      "name": "Mesh1 Model_1_4_positions",
+      "componentType": 5126,
+      "count": 10,
+      "min": [
+        0,
+        0,
+        0
+      ],
+      "max": [
+        0.5,
+        0.25,
+        5.075940062191838e-18
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 3048
+    },
+    {
+      "name": "Mesh1 Model_1_4_normals",
+      "componentType": 5126,
+      "count": 10,
+      "min": [
+        0,
+        0,
+        1
+      ],
+      "max": [
+        0,
+        0,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 3048
+    },
+    {
+      "name": "Mesh1 Model_1_4_texcoords",
+      "componentType": 5126,
+      "count": 10,
+      "min": [
+        0,
+        -8.842519760131836
+      ],
+      "max": [
+        19.684999465942383,
+        1
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 2032
+    },
+    {
+      "name": "Mesh1 Model_1_4_indices",
+      "componentType": 5123,
+      "count": 12,
+      "min": [
+        0
+      ],
+      "max": [
+        9
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 648
+    },
+    {
+      "name": "Mesh1 Model_1_5_positions",
+      "componentType": 5126,
+      "count": 10,
+      "min": [
+        0.5,
+        0,
+        -0.5
+      ],
+      "max": [
+        0.5,
+        0.25,
+        0
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 3168
+    },
+    {
+      "name": "Mesh1 Model_1_5_normals",
+      "componentType": 5126,
+      "count": 10,
+      "min": [
+        1,
+        0,
+        0
+      ],
+      "max": [
+        1,
+        0,
+        0
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 3168
+    },
+    {
+      "name": "Mesh1 Model_1_5_texcoords",
+      "componentType": 5126,
+      "count": 10,
+      "min": [
+        0,
+        -8.842519760131836
+      ],
+      "max": [
+        19.684999465942383,
+        1
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 2112
+    },
+    {
+      "name": "Mesh1 Model_1_5_indices",
+      "componentType": 5123,
+      "count": 12,
+      "min": [
+        0
+      ],
+      "max": [
+        9
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 672
+    },
+    {
+      "name": "Mesh2 Model_1_0_positions",
+      "componentType": 5126,
+      "count": 130,
+      "min": [
+        -5.4143401470956495e-17,
+        0.25,
+        -0.5
+      ],
+      "max": [
+        0.5,
+        0.5,
+        0
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 3288
+    },
+    {
+      "name": "Mesh2 Model_1_0_normals",
+      "componentType": 5126,
+      "count": 130,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 3288
+    },
+    {
+      "name": "Mesh2 Model_1_0_texcoords",
+      "componentType": 5126,
+      "count": 130,
+      "min": [
+        -19.684999465942383,
+        -18.684999465942383
+      ],
+      "max": [
+        19.684999465942383,
+        1
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 2192
+    },
+    {
+      "name": "Mesh2 Model_1_0_indices",
+      "componentType": 5123,
+      "count": 168,
+      "min": [
+        0
+      ],
+      "max": [
+        129
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 696
+    },
+    {
+      "name": "Mesh2 Model_1_1_positions",
+      "componentType": 5126,
+      "count": 78,
+      "min": [
+        -5.4143401470956495e-17,
+        0.25,
+        -0.5
+      ],
+      "max": [
+        0.5,
+        0.5,
+        0
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 4848
+    },
+    {
+      "name": "Mesh2 Model_1_1_normals",
+      "componentType": 5126,
+      "count": 78,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 4848
+    },
+    {
+      "name": "Mesh2 Model_1_1_texcoords",
+      "componentType": 5126,
+      "count": 78,
+      "min": [
+        -19.684999465942383,
+        -18.684999465942383
+      ],
+      "max": [
+        19.684999465942383,
+        1
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 3232
+    },
+    {
+      "name": "Mesh2 Model_1_1_indices",
+      "componentType": 5123,
+      "count": 120,
+      "min": [
+        0
+      ],
+      "max": [
+        77
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 1032
+    },
+    {
+      "name": "Mesh2 Model_1_2_positions",
+      "componentType": 5126,
+      "count": 10,
+      "min": [
+        0,
+        0.25,
+        -2.8199699639856597e-18
+      ],
+      "max": [
+        0.5,
+        0.5,
+        0
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 5784
+    },
+    {
+      "name": "Mesh2 Model_1_2_normals",
+      "componentType": 5126,
+      "count": 10,
+      "min": [
+        -2.1689800626773458e-18,
+        -6.702900102326462e-18,
+        1
+      ],
+      "max": [
+        -2.1689800626773458e-18,
+        -6.702900102326462e-18,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 5784
+    },
+    {
+      "name": "Mesh2 Model_1_2_texcoords",
+      "componentType": 5126,
+      "count": 10,
+      "min": [
+        -2.4080499984161217e-34,
+        -18.684999465942383
+      ],
+      "max": [
+        19.684999465942383,
+        -8.842519760131836
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 3856
+    },
+    {
+      "name": "Mesh2 Model_1_2_indices",
+      "componentType": 5123,
+      "count": 12,
+      "min": [
+        0
+      ],
+      "max": [
+        9
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 1272
+    },
+    {
+      "name": "Mesh2 Model_1_3_positions",
+      "componentType": 5126,
+      "count": 10,
+      "min": [
+        -5.4143401470956495e-17,
+        0.25,
+        -0.5
+      ],
+      "max": [
+        0,
+        0.5,
+        0
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 5904
+    },
+    {
+      "name": "Mesh2 Model_1_3_normals",
+      "componentType": 5126,
+      "count": 10,
+      "min": [
+        -1,
+        9.477480101841438e-17,
+        4.5459100226280725e-17
+      ],
+      "max": [
+        -1,
+        9.477480101841438e-17,
+        4.5459100226280725e-17
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 5904
+    },
+    {
+      "name": "Mesh2 Model_1_3_texcoords",
+      "componentType": 5126,
+      "count": 10,
+      "min": [
+        -19.684999465942383,
+        -18.684999465942383
+      ],
+      "max": [
+        0,
+        -8.842519760131836
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 3936
+    },
+    {
+      "name": "Mesh2 Model_1_3_indices",
+      "componentType": 5123,
+      "count": 12,
+      "min": [
+        0
+      ],
+      "max": [
+        9
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 1296
+    },
+    {
+      "name": "Mesh2 Model_1_4_positions",
+      "componentType": 5126,
+      "count": 6,
+      "min": [
+        0,
+        0.25,
+        -0.5
+      ],
+      "max": [
+        0.5,
+        0.5,
+        -0.5
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 6024
+    },
+    {
+      "name": "Mesh2 Model_1_4_normals",
+      "componentType": 5126,
+      "count": 6,
+      "min": [
+        7.502309780174247e-17,
+        -1.7625900658480855e-16,
+        -1
+      ],
+      "max": [
+        7.502309780174247e-17,
+        -1.7625900658480855e-16,
+        -1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 6024
+    },
+    {
+      "name": "Mesh2 Model_1_4_texcoords",
+      "componentType": 5126,
+      "count": 6,
+      "min": [
+        -19.684999465942383,
+        -18.684999465942383
+      ],
+      "max": [
+        1.4768300015042504e-15,
+        -8.842519760131836
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 4016
+    },
+    {
+      "name": "Mesh2 Model_1_4_indices",
+      "componentType": 5123,
+      "count": 12,
+      "min": [
+        0
+      ],
+      "max": [
+        5
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 1320
+    },
+    {
+      "name": "Mesh2 Model_1_5_positions",
+      "componentType": 5126,
+      "count": 6,
+      "min": [
+        0.5,
+        0.25,
+        -0.5
+      ],
+      "max": [
+        0.5,
+        0.5,
+        0
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 6096
+    },
+    {
+      "name": "Mesh2 Model_1_5_normals",
+      "componentType": 5126,
+      "count": 6,
+      "min": [
+        1,
+        -9.961650090192407e-17,
+        -6.492760327099408e-17
+      ],
+      "max": [
+        1,
+        -9.961650090192407e-17,
+        -6.492760327099408e-17
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 6096
+    },
+    {
+      "name": "Mesh2 Model_1_5_texcoords",
+      "componentType": 5126,
+      "count": 6,
+      "min": [
+        -1.2780999784523937e-15,
+        -18.684999465942383
+      ],
+      "max": [
+        19.684999465942383,
+        -8.842519760131836
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 4064
+    },
+    {
+      "name": "Mesh2 Model_1_5_indices",
+      "componentType": 5123,
+      "count": 12,
+      "min": [
+        0
+      ],
+      "max": [
+        5
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 1344
+    }
+  ],
+  "asset": {
+    "generator": "obj2gltf",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "name": "caixa",
+      "byteLength": 17816,
+      "uri": "caixa.bin"
+    }
+  ],
+  "bufferViews": [
+    {
+      "name": "bufferView_0",
+      "buffer": 0,
+      "byteLength": 6168,
+      "byteOffset": 0,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_1",
+      "buffer": 0,
+      "byteLength": 6168,
+      "byteOffset": 6168,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_2",
+      "buffer": 0,
+      "byteLength": 4112,
+      "byteOffset": 12336,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_3",
+      "buffer": 0,
+      "byteLength": 1368,
+      "byteOffset": 16448,
+      "target": 34963
+    }
+  ],
+  "materials": [
+    {
+      "name": "FrontColor",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    {
+      "name": "BackColor",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.643137,
+          0.698039,
+          0.733333,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    {
+      "name": "Color_E05",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          0,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    {
+      "name": "Color_A05",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          0,
+          0,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    {
+      "name": "Color_G07",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0,
+          0.6,
+          0,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    {
+      "name": "Color_I06",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0,
+          0,
+          0.8,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Mesh1 Model_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 8,
+            "NORMAL": 9,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 12,
+            "NORMAL": 13,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 16,
+            "NORMAL": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 4,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 20,
+            "NORMAL": 21,
+            "TEXCOORD_0": 22
+          },
+          "indices": 23,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Mesh2 Model_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 24,
+            "NORMAL": 25,
+            "TEXCOORD_0": 26
+          },
+          "indices": 27,
+          "material": 1,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 28,
+            "NORMAL": 29,
+            "TEXCOORD_0": 30
+          },
+          "indices": 31,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 32,
+            "NORMAL": 33,
+            "TEXCOORD_0": 34
+          },
+          "indices": 35,
+          "material": 4,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 36,
+            "NORMAL": 37,
+            "TEXCOORD_0": 38
+          },
+          "indices": 39,
+          "material": 3,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 40,
+            "NORMAL": 41,
+            "TEXCOORD_0": 42
+          },
+          "indices": 43,
+          "material": 2,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 44,
+            "NORMAL": 45,
+            "TEXCOORD_0": 46
+          },
+          "indices": 47,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Mesh1 Model",
+      "mesh": 0
+    },
+    {
+      "name": "Mesh2 Model",
+      "mesh": 1
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ]
+}
