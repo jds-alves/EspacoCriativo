@@ -1,9 +1,7 @@
 # EspacoCriativo
 
 ### CARREGAR NOVAS FIGURAS 3D
-.
-.
-.
+
 Passo 1: Verificar o próximo código disponível (EX.: EC_3D001)
 
 Passo 2: Renomear os arquivos .obj e .gltf com o código da figura
