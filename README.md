@@ -20,7 +20,7 @@ Passo 8: Criar um arquivo na pasta EspacoCriativo/3D/Info, onde o nome será igu
 	:Linha 1 - Nome da figura que será exibida
 	:Linha 2 - Descrição da figura e do personagem
 	:Linha 3 - Tamanho padrão aproximado da impressão, altura x largura x profundidade, em cm (EX.: 15 x 5 x 6.8)
-	:Linha 4 - Nome do autor da figura
+	:Linha 4 - Nome e autor da figura
 	:Linha 5 - Site onde a figura foi extraída
 	
 Passo 9: Referenciar no arquivo EspacoCriativo/3D/Modelos/Index/Index o código e o nome da figura, ordenando pelo nome
