@@ -4,7 +4,11 @@
 
 Passo 1: Verificar o próximo código disponível (EX.: EC_3D001)
 
-Passo 2: Renomear os arquivos .obj e .gltf com o código da figura
+Passo 2: Ajustar a figura 3D no 3D Builder
+	 :Altura entre 18cm e 30cm
+	 :Cor como material #808080 e fosco
+	 :Salvar como .obj e .gltf, com o código da figura como nome
+	 :Salvar os arquivos .mtl e .bin sem acentos e espaços e com o nome da figura separado por "_" quando necessário
 
 Passo 3: Colocar todos os arquivos e suas dependências em uma pasta com o nome igual ao código da figura (.obj, .mtl, .gltf, .bin,...)
 
@@ -12,7 +16,7 @@ Passo 4: Fazer upload da pasta para EspacoCriativo/3D/Modelos
 
 Passo 5: Referenciar no arquivo EspacoCriativo/3D/Modelos/Index/Componentes todas as dependências (figuras e arquivo .mtl). Não é necessário referenciar os arquivos .obj, .gltf e .bin
 
-Passo 6: Colocar uma figura (imagem do arquivo em 3D) na pasta EspacoCriativo/3D/Figuras, com o nome igual ao código da figura e extensão .jpg
+Passo 6: Colocar uma figura (imagem do arquivo em 3D) na pasta EspacoCriativo/3D/Figuras, com o nome igual ao código da figura e extensão .jpg.
 
 Passo 7: Colocar uma figura (ícone em desenho referenciando o arquivo 3D) na pasta EspacoCriativo/3D/Ícones, com o nome igual ao código da figura e extensão .jpg
 
